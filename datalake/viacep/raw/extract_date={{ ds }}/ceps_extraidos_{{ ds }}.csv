@@ -1,0 +1,30 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20010-000,Rua Primeiro de Março,,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+70040-906,Esplanada dos Ministérios Bloco K,,"Ministério do Planejamento, Orçamento e Gestão",Zona Cívico-Administrativa,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+57020-000,Rua do Comércio,,,Centro,Maceió,AL,Alagoas,Nordeste,2704302,,82,2785
+49050-170,Rua Clara Almeida,,,Suíça,Aracaju,SE,Sergipe,Nordeste,2800308,,79,3105
+05423-000,Avenida Eusébio Matoso,lado par,,Pinheiros,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+09720-000,Avenida Brigadeiro Faria Lima,lado par,,Centro,São Bernardo do Campo,SP,São Paulo,Sudeste,3548708,6350,11,7075
+14010-000,Rua General Osório,até 1498/1499,,Centro,Ribeirão Preto,SP,São Paulo,Sudeste,3543402,5824,16,6969
+29050-910,Rua Caetano Tunholi,60,Banco do Brasil - GEREL Vitória,Enseada do Suá,Vitória,ES,Espírito Santo,Sudeste,3205309,,27,5705
+28010-000,Praça Santíssimo Salvador,,,Centro,Campos dos Goytacazes,RJ,Rio de Janeiro,Sudeste,3301009,,22,5819
+27253-005,Rodovia VRD 001 dos Metalúrgicos,de 900/901 a 2000/2001,,São Geraldo,Volta Redonda,RJ,Rio de Janeiro,Sudeste,3306305,,24,5925
+30180-060,Rua Juiz de Fora,até 369/370,,Barro Preto,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+41830-460,Alameda Florença,,,Pituba,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+50030-260,Rua do Brum,,,Recife,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+58010-000,Avenida Beaurepaire Rohan,lado par,,Varadouro,João Pessoa,PB,Paraíba,Nordeste,2507507,,83,2051
+59010-000,Avenida Presidente Café Filho,,,Praia do Meio,Natal,RN,Rio Grande do Norte,Nordeste,2408102,,84,1761
+60125-040,Rua Carvalho Lima,,,Aldeota,Fortaleza,CE,Ceará,Nordeste,2304400,,85,1389
+66025-050,Vila Rossy,,,Jurunas,Belém,PA,Pará,Norte,1501402,,91,0427
+69005-000,Rua Marechal Deodoro,,,Centro,Manaus,AM,Amazonas,Norte,1302603,,92,0255
+69301-020,Avenida Benjamin Constant,de 651/652 a 1429/1430,,Centro,Boa Vista,RR,Roraima,Norte,1400100,,95,0301
+78005-400,Rua Comandante Costa,até 899/900,,Centro-Norte,Cuiabá,MT,Mato Grosso,Centro-Oeste,5103403,,65,9067
+80010-000,Rua José Loureiro,,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+88010-000,Rua Felipe Schmidt,até 348/349,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+90010-000,Rua Siqueira Campos,até 944/945,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+83490-000,,,,,Adrianópolis,PR,Paraná,Sul,4100202,,41,7403
+01311-000,Avenida Paulista,até 609 - lado ímpar,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+07190-100,Rodovia Hélio Smidt,,,Aeroporto,Guarulhos,SP,São Paulo,Sudeste,3518800,3360,11,6477
+21941-900,Avenida Vinte de Janeiro,s/n,Aeroporto Internacional Antonio Carlos Jobim,Galeão,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+83010-900,Avenida Rocha Pombo,s/n,Aeroporto Internacional Afonso Pena,Águas Belas,São José dos Pinhais,PR,Paraná,Sul,4125506,,41,7885
