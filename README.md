@@ -6,11 +6,11 @@ Este projeto demonstra a construção de um pipeline de ETL utilizando o Apache 
 
 A pipeline é totalmente orquestrada pelo Airflow e utiliza o conceito de Hooks e Operators.
 
-### 1. Hook (`airflow_pipeline/hook/cep_hook.py`)
+### 1. Custom Hook (`airflow_pipeline/hook/cep_hook.py`)
 
 **`CepHook`**:  Gerencia a conexão HTTP com a API ViaCEP e trata erros de API. 
 
-### 2. Operator (`airflow_pipeline/operators/cep_operator.py`)
+### 2. Custom Operator (`airflow_pipeline/operators/cep_operator.py`)
 
 **`CepOperator`**: Executa a lógica de extração e persistência dos dados. Utiliza o `CepHook` para coletar dados de +50 CEPs e salva o resultado final em formato CSV. 
 
