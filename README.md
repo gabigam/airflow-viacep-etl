@@ -1,10 +1,10 @@
-# 🇧🇷 Airflow ETL: Extração e Orquestração de Dados Postais (ViaCEP)
+# Airflow ETL: Extração e Orquestração de Dados Postais (ViaCEP)
 
 Este projeto demonstra a construção de um pipeline de ETL utilizando o Apache Airflow. O objetivo é consumir dados públicos de Endereçamento Postal (CEP) do Brasil através do webservice ViaCEP.
 
 ## ⚙️ Arquitetura e Componentes Técnicos
 
-A pipeline é totalmente orquestrada pelo Airflow e utiliza o conceito de Hooks e Operators customizados, seguindo o padrão de projeto para componentes de terceiros.
+A pipeline é totalmente orquestrada pelo Airflow e utiliza o conceito de Hooks e Operators.
 
 ### 1. Custom Hook (`airflow_pipeline/hook/cep_hook.py`)
 
